@@ -18,11 +18,10 @@ The hack_rf notebook teaches using the HackRF hardware, along with GNU Radio sof
 
 One of the most fascinating aspects of space is the omnipresent [21cm hyperfine transition radiation emitted from dust containing neutral hydrogen](https://en.wikipedia.org/wiki/Hydrogen_line). Connecting my HackRF to a rooftop telescope at the university and using the gqrx visualization software, I displayed the 21cm line. 
 
-!(https://github.com/rgao/radio_frequency_interference/blob/master/21cm.png)
+![gqrx 21cm](https://github.com/rgao/radio_frequency_interference/blob/master/21cm.png)
 
 ### Interferometry
 
-This is one of my undergraduate lab reports. 
-
+This is one of my undergraduate lab reports. The work involved celestial coordinate transformation, the physics of interferometry, processing real-time data from the Sun, Moon, and Orion Nebula. Least-squares regression was applied to the lunar data to visualize the power of the data as a function of radians. The processed data is used to produce results on various characteristics of the celestial objects, such as the size of the object projected onto the sky, which would be useful for image reconstruction.
 
 
