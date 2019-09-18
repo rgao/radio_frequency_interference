@@ -18,7 +18,7 @@ The hack_rf notebook teaches using the HackRF hardware, along with GNU Radio sof
 
 One of the most fascinating aspects of space is the omnipresent [21cm hyperfine transition radiation emitted from dust containing neutral hydrogen](https://en.wikipedia.org/wiki/Hydrogen_line). Connecting my HackRF to a rooftop telescope at the university and using the gqrx visualization software, I displayed the 21cm line. 
 
-[https://github.com/rgao/radio_frequency_interference/blob/master/21cm.png]
+!(https://github.com/rgao/radio_frequency_interference/blob/master/21cm.png)
 
 ### Interferometry
 
